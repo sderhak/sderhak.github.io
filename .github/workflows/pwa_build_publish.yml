@@ -26,7 +26,7 @@ jobs:
         cd build/web
         git init
         git config --global user.email scott.derhak@gmail.com
-        # git config --global user.name Scott
+        git config --global user.name Scott
         git status
         git remote add origin https://${{secrets.commit_secret}}@github.com/sderhak/sderhak.github.io.git
         git checkout -b master
