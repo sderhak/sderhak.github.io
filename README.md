@@ -1,6 +1,6 @@
-# the_basics
+# Flutter PWA Basline Project
 
-A new Flutter project.
+A new PWA Flutter project.
 
 ## Getting Started
 
